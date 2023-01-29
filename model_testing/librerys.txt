@@ -1,0 +1,8 @@
+1. !Unittest!, JUnit, !Pytest!
+2. Библиотека nose
+3. Testify
+4. Locust
+5. Behave
+
+setup() - выполняется перед тесткейсом
+tearDown() - запускается после
