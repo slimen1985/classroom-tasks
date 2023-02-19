@@ -1,0 +1,27 @@
+<records>
+    <record>
+        <x>1</x>
+        <y>10</y>
+        <z>100</z>
+    </record>
+    <record>
+        <x>2</x>
+        <y>20</y>
+        <z>200</z>
+    </record>
+    <record>
+        <x>3</x>
+        <y>30</y>
+        <z>300</z>
+    </record>
+    <record>
+        <x>4</x>
+        <y>40</y>
+        <z>400</z>
+    </record>
+    <record>
+        <x>5</x>
+        <y>50</y>
+        <z>500</z>
+    </record>
+</records>
